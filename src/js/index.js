@@ -1,4 +1,5 @@
 import "../css/style.css";
+import "bootstrap";
 
 import Header from "./blocks/header";
 import About from "./blocks/about";
